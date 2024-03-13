@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import imagem1 from './1.jpeg';
-import imagem2 from './2.jpeg';
-import imagem3 from './3.jpeg';
-import imagem4 from './4.webp';
-import imagem5 from './5.webp';
+import imagem1 from './assets/1.jpeg';
+import imagem2 from './assets/2.jpeg';
+import imagem3 from './assets/3.jpeg';
+import imagem4 from './assets/4.webp';
+import imagem5 from './assets/5.webp';
 
 function App() {
   return (
