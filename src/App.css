@@ -56,12 +56,12 @@ h2 {
   padding: 10px 20px;
   text-align: center;
   color: #fff;
-  background-color: blue;
+  background-color: green;
   border: none;
   border-radius: 5px;
   text-decoration: none;
 }
 
 .cta-button:hover {
-  background-color: red;
+  background-color: blue;
 } 
